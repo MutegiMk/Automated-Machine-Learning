@@ -15,6 +15,6 @@ Machine learning procedure automated using Pycaret
 
 ## Content
 > This repository contains code used to to host this app locally on streamlit, It's an efficient way 
-to both save time doing EDA  and finding the best alogorithm for your machine learning dataset and save your trained model.
+to both save time doing EDA  and finding the best algorithm for your machine learning dataset and save your trained model.
 
 *Give a star or a fork if it interest you*

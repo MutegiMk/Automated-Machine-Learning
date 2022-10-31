@@ -1,6 +1,4 @@
 # Automated-Machine-Learning
-Machine learning procedure automated using Pycaret
-
 *Demo Video*
 
 [trimmed.webm](https://user-images.githubusercontent.com/109520639/199052233-f62c7d42-f08a-44b3-be88-282ede9f107c.webm)

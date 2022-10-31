@@ -8,7 +8,7 @@ Machine learning procedure automated using Pycaret
 ## Installation
 > You will need to install these packages for you to able run this app in your local machine
 * create a virtual environment `conda create - name yourenv` then `conda activate yourenv`
-* clone this repo `clone 
+* clone this repo `clone https://github.com/MutegiMk/Automated-Machine-Learning.git`
 * `pip install Streamlit`
 * `pip streamlit_pandas_profiling`
 * `pip install pycaret`
